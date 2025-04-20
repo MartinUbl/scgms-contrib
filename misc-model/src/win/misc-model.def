@@ -1,0 +1,6 @@
+LIBRARY misc-model.dll
+
+EXPORTS
+	do_get_model_descriptors
+	do_get_signal_descriptors
+	do_create_discrete_model
